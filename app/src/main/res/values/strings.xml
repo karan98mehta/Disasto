@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Disasto</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="user_name">user_name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="youtube_tutorial">view tutorials</string>
+    <string name="location">My location</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="view_tutorial">View Tutorial</string>
+    <string name="my_location">My Location</string>
+    <string name="helpline_no">Helpline No.</string>
+    <string name="channel_name">DISASTER MANAGEMENT</string>
+    <string name="channel_desc">DANGER</string>
+    <string name="news_feed">News Feed</string>
+    <string name="sos">SOS</string>
+</resources>

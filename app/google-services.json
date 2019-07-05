@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58072589631",
+    "firebase_url": "https://disasto.firebaseio.com",
+    "project_id": "disasto",
+    "storage_bucket": "disasto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58072589631:android:488e5f81d988bb42",
+        "android_client_info": {
+          "package_name": "com.example.disasto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58072589631-4no7938ljsrn8gr8vj8vi9hsbnm8ojap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disasto",
+            "certificate_hash": "047ee943360dc2707d3200e7575545d0b8de7fcc"
+          }
+        },
+        {
+          "client_id": "58072589631-70p6gemrq5av3qbh501sp373sdqpa57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi1rvWNmo4MMfltFK612Mwtpf8_bQ1bfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58072589631-70p6gemrq5av3qbh501sp373sdqpa57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
